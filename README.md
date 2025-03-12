@@ -104,6 +104,7 @@ GET http://localhost:3000/matches/:id
 ```
 
 Remplacez :id par l’identifiant du match.
+
 <br/>
 
 ### Créer un match

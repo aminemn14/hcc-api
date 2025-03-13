@@ -12,7 +12,7 @@ HCC API est une API dédiée à la gestion d’un club de handball fictif. Elle 
 1. Clonez le repository
 
 ```bash
-git clone https://votre-repository-url.git
+git clone https://github.com/aminemn14/hcc-api
 ```
 
 2. Installer les dépendances

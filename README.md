@@ -1,6 +1,6 @@
 # HCC API
 
-HCC API est une API dédiée à la gestion d’un club de handball. Elle permet notamment de gérer les utilisateurs, les matchs et les actualités (news) du club.
+HCC API est une API dédiée à la gestion d’un club de handball fictif. Elle permet notamment de gérer les utilisateurs, les matchs et les actualités (news) du club.
 
 ## Prérequis
 
